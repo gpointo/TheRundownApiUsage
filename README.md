@@ -6,5 +6,5 @@
 ## Problem:
 1. TheRundown only returns 5 entries
 ## Setup
-1. run maven install(intall packages)
+1. run maven install(install packages)
 2. run mvn spring-boot:run
